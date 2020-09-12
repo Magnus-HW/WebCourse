@@ -37,5 +37,3 @@ Step 4 : commands
   - git push -u origin master
   - git log
   - git —help
-
-11111111111
