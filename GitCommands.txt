@@ -2,7 +2,11 @@ Step 1 : Create branch
    git branch “branch name”
 
 Step 2 : Checkout branch
+<<<<<<< HEAD
    git checkout “branch name”
+=======
+   git checkout “branch name
+>>>>>>> test1
 
 Step 3 : Merge new branch in master branch
    git merge “branch name”
