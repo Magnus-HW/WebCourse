@@ -1,0 +1,35 @@
+Step 1 : Create branch 
+   git branch “branch name”
+
+Step 2 : Checkout branch
+   git checkout “branch name”
+
+Step 3 : Merge new branch in master branch
+   git merge “branch name”
+
+Step 4 : Delete branch
+   git branch -d “branch name”    — delete from local
+   git push origin —delete “branch name”   — delete from remote
+
+
+###################################
+Step 1 : check if git is already installed
+             git --versionbranch
+
+Step 2 : download and install git
+
+Step 3 : add your project to git
+
+Step 4 : commands
+
+   git config --global user.email "yourGitHub@email.com"
+   git config --global user.name "yourGitHubusername"
+
+  - git init
+  - git status
+  - git add
+  - git commit -m “…..”
+  - git remote add origin https://github.com/RaghavAutomation/R...
+  - git push -u origin master
+  - git log
+  - git —help
