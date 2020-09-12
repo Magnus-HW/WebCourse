@@ -35,4 +35,4 @@ Step 4 : commands
   - git —help
 
 
-  srsrsr
+  srs
