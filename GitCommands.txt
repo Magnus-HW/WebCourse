@@ -11,7 +11,7 @@ Step 2 : Checkout branch
 Step 3 : Merge new branch in master branch
    git merge “branch name”
    	or
-   git push -u origin "name"  (git branch -a)
+   git push -u origin "name"  (git branch -a) - see all branches
 Step 4 : Delete branch
    git branch -d “branch name”    — delete from local
    git push origin —delete “branch name”   — delete from remote
